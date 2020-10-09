@@ -1,2 +1,1 @@
-# hello-world
-test
+hello-world я хочу быть программистом
